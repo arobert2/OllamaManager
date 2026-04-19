@@ -4,7 +4,7 @@ This utility provides a convenient way to monitor if your Ollama models are curr
 
 #### How To Use
 
-Added your models to the models.json file.
+Add your models to the models.json file.
 
 ```json
 {
